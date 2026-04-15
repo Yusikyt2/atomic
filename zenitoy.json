@@ -1,0 +1,21 @@
+{
+  "name": "My Game Collection",
+  "downloads": [
+    {
+      "title": "Atomic Heart (InsaneRamZes Portable)",
+      "uris": [
+        "magnet:?xt=urn:btih:2931A1D439CD355DDCBFC466FCC609CAFC665A72&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2023-02-21T00:00:00Z",
+      "fileSize": "119.97 GB"
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "uris": [
+        "magnet:?xt=urn:btih:B3635DF59709B420F9040E9FB432566227BC093F&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2025-03-04T00:00:00Z",
+      "fileSize": "95 GB"
+    }
+  ]
+}
