@@ -1,5 +1,5 @@
 {
-  "name": "My Game Collection",
+  "name": "ZenitopyGames",
   "downloads": [
     {
       "title": "Atomic Heart (InsaneRamZes Portable)",
@@ -16,6 +16,22 @@
       ],
       "uploadDate": "2025-03-04T00:00:00Z",
       "fileSize": "95 GB"
+    },
+    {
+      "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl - Ultimate Edition",
+      "uris": [
+        "magnet:?xt=urn:btih:EBE331A49F8A9C5A1E44F982ECEC143DE790B2F8&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2024-11-20T00:00:00Z",
+      "fileSize": "165 GB"
+    },
+    {
+      "title": "Dying Light: The Beast",
+      "uris": [
+        "magnet:?xt=urn:btih:A202CEFA81636483CE2F2A5C451EC9EA7EB02D53&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2025-09-18T00:00:00Z",
+      "fileSize": "66 GB"
     }
   ]
 }
